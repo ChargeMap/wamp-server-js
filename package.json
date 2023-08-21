@@ -1,6 +1,6 @@
 {
   "name": "fox-wamp",
-  "version": "0.7.10",
+  "version": "1.0.0",
   "description": "Web Application Message Router/Server WAMP/MQTT",
   "author": {
     "name": "Anatoly Tsapkov",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kalmyk/fox-wamp.git"
+    "url": "git@github.com:ChargeMap/fox-wamp.git"
   },
   "license": "MIT",
   "keywords": [
