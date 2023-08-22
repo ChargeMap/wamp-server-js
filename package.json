@@ -1,5 +1,5 @@
 {
-  "name": "fox-wamp",
+  "name": "@chargemap/wamp-server-js",
   "version": "1.0.0",
   "description": "Web Application Message Router/Server WAMP/MQTT",
   "author": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:ChargeMap/fox-wamp.git"
+    "url": "git@github.com:ChargeMap/wamp-server-js.git"
   },
   "license": "MIT",
   "keywords": [

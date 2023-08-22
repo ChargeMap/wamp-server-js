@@ -1,4 +1,4 @@
-name: FOX Wamp CI
+name: Wamp-Server-JS CI
 
 on:
   push:

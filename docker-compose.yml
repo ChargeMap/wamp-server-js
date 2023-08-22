@@ -1,6 +1,6 @@
 version: '3.10'
 services:
-  fox_wamp:
+  wamp_server_js:
     image: "hebabil/node-18"
     user: "node"
     working_dir: /srv/app

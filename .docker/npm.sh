@@ -1,1 +1,1 @@
-docker compose run fox_wamp npm "$@"
+docker compose run wamp_server_js npm "$@"

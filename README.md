@@ -1,4 +1,4 @@
-# FOX-WAMP is a The Web Application Message Server
+# Web Application Message Server
 
 [![Build Status](https://travis-ci.org/kalmyk/fox-wamp.svg?branch=master)](https://travis-ci.org/kalmyk/fox-wamp)
 
